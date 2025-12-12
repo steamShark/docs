@@ -1,0 +1,6 @@
+#Dont copy any .md in root
+/*.md
+# Dont copy Dockerfile
+*Dockerfile*
+# Exclude node_modules to container
+node_modules
